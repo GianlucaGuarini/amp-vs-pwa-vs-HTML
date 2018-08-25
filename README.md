@@ -20,4 +20,5 @@ All the benchmarks were run with the Lighthouse via Chrome audit tab
 
 ## Conclusions
 
-Amp pages render fast but takes loger to become interactive. HTML and PWA (with scripts loaded asynchronously) pages using SSR will perorm almost the same
+Amp pages render initially fast but they take almost 3 times longer compared to the normal HTML pages to become interactive.
+HTML and PWA (with scripts loaded asynchronously) pages using SSR will perorm almost the same.
