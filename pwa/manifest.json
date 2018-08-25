@@ -1,8 +1,0 @@
-{
-  "name": "Demo",
-  "short_name": "Demo",
-  "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "#ddd",
-  "theme_color": "#ddd"
-}
