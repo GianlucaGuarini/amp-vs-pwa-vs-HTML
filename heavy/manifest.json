@@ -1,0 +1,8 @@
+{
+  "name": "Demo",
+  "short_name": "Demo",
+  "start_url": "/pwa.html",
+  "display": "standalone",
+  "background_color": "#ddd",
+  "theme_color": "#ddd"
+}
