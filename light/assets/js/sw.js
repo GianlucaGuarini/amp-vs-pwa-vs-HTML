@@ -2,9 +2,9 @@ const dataCacheName = 'demoData-v1'
 const cacheName = 'demoPWA-final-1'
 const filesToCache = [
   '/',
-  '/index.html',
-  '/app.js',
-  '/style.css'
+  '/pwa.html',
+  '/assets/js/app.js',
+  '/assets/css/style.css'
 ]
 
 self.addEventListener('install', function(e) {
